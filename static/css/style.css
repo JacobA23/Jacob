@@ -1,0 +1,16 @@
+.top-nav p {
+ 		font-size: 70px;
+ 	}
+ 
+ body{
+ 	 text-align: center;
+ 	 margin: auto;
+ 	 font-size: 15px; 
+ 	 background-color: #00FFFF;
+     /*color: #FFFF00;*/
+     font-family: arial; 
+ }
+
+ ul {
+ 	list-style: none;
+ }
